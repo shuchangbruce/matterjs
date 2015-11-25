@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(33,33,33);
+    color: orange;
+}
+
+.button {
+
+    background-color: rgb(33,33,33);
+    position:fixed;
+    right:21.6%;
+    top:60%;
+    font-size: 30px;
+}
+
+h2 {
+    position:fixed;
+    right:20%;
+    top:20%;
+    text-align: center;
+}
