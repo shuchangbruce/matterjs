@@ -1,4 +1,4 @@
-/Users/chang/Desktop/info343/matterjs/README.md
+http://students.washington.edu/changshu/info343/challenges/matterjs/
 
 #The Matterjs Challenge
 ##1.What library?  
